@@ -1,0 +1,8 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Half Past Tik</title><style>body{font-family:-apple-system,Helvetica,Arial,sans-serif;max-width:680px;margin:48px auto;padding:0 20px;line-height:1.6;color:#1b1b1f;background:#fafaf7}h1{font-size:28px}h2{font-size:18px;margin-top:28px}a{color:#2b5cab}footer{margin-top:48px;font-size:14px;color:#666}</style></head><body>
+<h1>Half Past Tik</h1>
+<p>Taking ideas apart, carefully.</p>
+<p>Half Past Tik is a YouTube channel that explains research papers and ideas in short, carefully checked videos.</p>
+<p>The <strong>Half Past Tik uploader</strong> is a private tool the channel owner uses to upload the channel's own videos, thumbnails and captions to YouTube through the YouTube Data API. It is not offered to anyone else.</p>
+<p><a href="privacy.html">Privacy policy</a> · <a href="terms.html">Terms of service</a></p>
+<footer>Contact: papersarefun@gmail.com</footer>
+</body></html>
